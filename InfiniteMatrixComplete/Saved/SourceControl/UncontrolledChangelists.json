@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/richiez2/Documents/Unreal Projects/MP1_take2/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/richiez2/Documents/Unreal Projects/MP1_take2/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/richiez2/Documents/Unreal Projects/MP1_take2/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/HealthBar.uasset",
+				"C:/Users/richiez2/Documents/Unreal Projects/MP1_take2/InfiniteMatrixComplete/Content/InfiniteMatrix/Meshes/SM_Hole_04.uasset",
+				"C:/Users/richiez2/Documents/Unreal Projects/MP1_take2/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/richiez2/Documents/Unreal Projects/MP1_take2/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Score.uasset",
+				"C:/Users/richiez2/Documents/Unreal Projects/MP1_take2/InfiniteMatrixComplete/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/richiez2/Documents/Unreal Projects/MP1_take2/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/NewWidgetBlueprint.uasset"
+			]
+		}
+	]
+}
