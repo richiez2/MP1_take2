@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/richiez2/Documents/MP1_take2/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/richiez2/Documents/MP1_take2/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/richiez2/Documents/MP1_take2/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/richiez2/Documents/MP1_take2/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/HealthBar.uasset",
+				"C:/Users/richiez2/Documents/MP1_take2/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_ProjectileAttack.uasset",
+				"C:/Users/richiez2/Documents/MP1_take2/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_EnemyProj.uasset",
+				"C:/Users/richiez2/Documents/MP1_take2/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_CamShake.uasset",
 				"C:/Users/richiez2/Documents/Unreal Projects/MP1_take2/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
 				"C:/Users/richiez2/Documents/Unreal Projects/MP1_take2/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
 				"C:/Users/richiez2/Documents/Unreal Projects/MP1_take2/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/HealthBar.uasset",
